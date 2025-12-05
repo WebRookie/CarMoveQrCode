@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
           <div className="header">
-              <div className="bigTitle">🎸 五月天 🎤</div>
+              <div className="bigTitle">🎸 MAYDAY 🎤</div>
               <div>如果给您造成不便，请联系车主，车主会尽快离开</div>
               <div style={{marginTop:'12px'}}>"人生海海，先停车再说"</div>
           </div>
@@ -23,7 +23,7 @@ function App() {
                 <img src={carrot} className="carIcon" alt="carrot" />
                </div>
                <div style={{ display: 'flex',marginLeft: '10px' }}>
-                   🚗<div className="carDetials">豫CAA2933</div>
+                   🚗<div className="carDetials">陕ABH2822</div>
                </div>
 
 
@@ -36,7 +36,7 @@ function App() {
              </div>
              <div className="item">
                  <div className="label">车牌号码</div>
-                 <div className="itemValue">豫CAA2933</div>
+                 <div className="itemValue">陕ABH2822</div>
              </div>
              <div className="item">
                  <div className="label">联系电话</div>
